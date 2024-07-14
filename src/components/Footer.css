@@ -1,0 +1,9 @@
+.footer_container {
+  font-weight: bold;
+  font-style: italic;
+  max-width: 1440px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

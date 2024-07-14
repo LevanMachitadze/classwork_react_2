@@ -1,0 +1,21 @@
+.header_main {
+  max-width: 1440px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  font-size: 40px;
+  font-weight: bold;
+}
+.nav_list {
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+}
+li {
+  cursor: pointer;
+}

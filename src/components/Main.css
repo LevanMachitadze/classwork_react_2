@@ -1,0 +1,14 @@
+main {
+  max-width: 1440px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 30px;
+}
+.card_div {
+  margin-bottom: 50px;
+  border: 5px solid black;
+  border-radius: 25px;
+}
